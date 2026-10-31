@@ -1,0 +1,6 @@
+{
+  "name": "FOODLOOP - Smart College Food Waste Management",
+  "description": "Waste Less. Share More. A college-based food waste management and surplus redistribution platform connecting students, canteens, hostels, and NGOs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
